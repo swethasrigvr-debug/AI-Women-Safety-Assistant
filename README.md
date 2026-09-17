@@ -1,2 +1,7 @@
 # AI-Women-Safety-Assistant
-An AI-powered safety assistant designed to help women stay safe through real-time alerts, emergency assistance, and smart safety features.
+
+An AI-powered assistant for women’s safety.
+
+## Project Demo
+
+[View Guardi-Her](https://guardi-her.lovable.app)
